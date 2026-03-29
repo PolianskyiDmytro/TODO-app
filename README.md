@@ -1,9 +1,40 @@
-# React TypeScript Starter Pack
+# ✅ TODO App
 
-To use this template click `Use this template`
+A modern and interactive Todo application built with React, focused on clean UI, state management, and real-world functionality.
 
-### Available Scripts
+This project demonstrates the ability to build a dynamic single-page application with reusable components and efficient state handling.
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+## 🚀 Features
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- Dynamic UI updates without page reload
+- Clean and intuitive user interface
+- Component-based architecture
+- Responsive layout
+## 🛠️ Tech Stack
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS / SCSS
+- npm
+## 🎯 Key Highlights
+- Practical implementation of CRUD operations (Create, Read, Update, Delete)
+- Usage of React state and component logic
+- Clean separation of UI and logic
+- Scalable and maintainable project structure
+- Real-world app behavior and interactivity
+## 🌐 Live Demo
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+View Project
+
+## 🚀 Getting Started
+### 📥 Clone the repository
+git clone https://github.com/PolianskyiDmytro/react_todo-app.git
+
+cd react_todo-app
+### 📦 Install dependencies
+npm install
+# or
+yarn install
+### ▶️ Run the project
+npm start
